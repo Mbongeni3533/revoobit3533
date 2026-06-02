@@ -1,6 +1,6 @@
 # Revoobit — Mbongeni Shongwe | Health & Wealth Platform
 
-**Live site:** https://mbongeni3533.github.io/revoobit35330/  
+**Live site:** https://mbongeni3533.github.io/revoobit3533/  
 **Main website:** https://revoobit3533.netlify.app  
 **Affiliate ID:** Mbongeni3533 · Eswatini, Africa
 
